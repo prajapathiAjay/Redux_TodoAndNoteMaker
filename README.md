@@ -1,2 +1,2 @@
-# folio-backend
+# TODO LIST AND NOTE MAKER USING REDUX
 all backend logics
